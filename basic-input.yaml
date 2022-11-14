@@ -3,4 +3,4 @@
 
 # COS parameters
 cos_instance_name: Blueprint-basic
-cos_storage_plan: standard
+cos_storage_plan: lite
