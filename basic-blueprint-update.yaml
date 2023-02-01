@@ -48,7 +48,7 @@ modules:
     source:
       source_type: github
       git:
-        git_repo_url: "https://github.com/nven/blueprint-example-modules/tree/main/IBM-ResourceGroup"
+        git_repo_url: "https://github.com/stevestrutt/blueprint-example-modules/tree/main/IBM-Null"
         git_branch: main
         git_token: $blueprint.rg_git_token
     inputs:
