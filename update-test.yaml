@@ -31,7 +31,7 @@ modules:
     source:
       source_type: github
       git:
-        git_repo_url: "https://github.com/stevestrutt/blueprint-example-modules/tree/main/IBM-DefaultResourceGroup"
+        git_repo_url: "https://github.com/stevestrutt/blueprint-example-modules/tree/main/IBM-Null"
         git_branch: main
     inputs:
       - name: module_var_1
@@ -48,7 +48,7 @@ modules:
     source:
       source_type: github
       git:
-        git_repo_url: "https://github.com/stevestrutt/blueprint-example-modules/tree/main/IBM-Storage"
+        git_repo_url: "https://github.com/stevestrutt/blueprint-example-modules/tree/main/IBM-Null"
         git_branch: main
     inputs:
       - name: module_var_1
